@@ -1,0 +1,3 @@
+[submodule "themes/InkSerenity"]
+	path = themes/InkSerenity
+	url = https://github.com/tandc181123/hexo-theme-InkSerenity.git
